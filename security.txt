@@ -1,0 +1,5 @@
+Contact: https://www.instagram.com/ferramentasusa.br/
+Preferred-Languages: pt, en
+Canonical: https://ferramentasusa.netlify.app/.well-known/security.txt
+Policy: https://ferramentasusa.netlify.app/
+Expires: 2027-08-18T00:00:00.000Z
