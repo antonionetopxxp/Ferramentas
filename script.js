@@ -22,7 +22,7 @@ const tools = [
   url: 'https://www.wondershare.com/',
   affiliateUrl: 'https://www.awin1.com/cread.php?awinmid=88453&awinaffid=3040623&ued=https%3A%2F%2Fwww.wondershare.com%2F',
   isAffiliate: true,
-  badge: 'AFILIADO',
+  badge: 'DESTAQUE',
   featured: true,
   freeTrial: false,
   tags: ['wondershare', 'design', 'video', 'pdf', 'ia', 'software', 'criacao']
