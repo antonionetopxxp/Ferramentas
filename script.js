@@ -14,6 +14,20 @@ const tools = [
     tags: ['ia', 'chatbot', 'texto', 'código', 'produtividade']
   },
   {
+  name: 'Wondershare',
+  cat: 'Design',
+  icon: '🎨',
+  rating: 4.8,
+  desc: 'Ferramentas para edição de vídeo, PDF, criação de conteúdo e produtividade, incluindo soluções com inteligência artificial.',
+  url: 'https://www.wondershare.com/',
+  affiliateUrl: 'https://www.awin1.com/cread.php?awinmid=88453&awinaffid=3040623&ued=https%3A%2F%2Fwww.wondershare.com%2F',
+  isAffiliate: true,
+  badge: 'AFILIADO',
+  featured: true,
+  freeTrial: false,
+  tags: ['wondershare', 'design', 'video', 'pdf', 'ia', 'software', 'criacao']
+},
+  {
     name: 'Claude',
     cat: 'IA',
     icon: '🧠',
